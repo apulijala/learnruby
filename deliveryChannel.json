@@ -1,0 +1,9 @@
+{
+
+"name": "default",
+"s3BucketName": "terraform-datta-files",
+"snsTopicARN": "arn:aws:sns:eu-west-2:351153408217:yellowtagmedia-configuration-notice",
+"configSnapshotDeliveryProperties": {
+"deliveryFrequency": "TwentyFour_Hours"
+  }
+}
